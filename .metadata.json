@@ -1,0 +1,9 @@
+[
+  {
+    "package": "cargo"
+  },
+  {
+    "package": "salso",
+    "oncran": false
+  }
+]
