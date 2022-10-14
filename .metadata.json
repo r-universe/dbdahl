@@ -5,5 +5,11 @@
   {
     "package": "salso",
     "oncran": false
+  },
+  {
+    "package": "fangs"
+  },
+  {
+    "package": "caviarpd"
   }
 ]

@@ -15,3 +15,15 @@
 	shallow = true
 	subdir = salso
 	registered = true
+[submodule "fangs"]
+	path = fangs
+	url = https://github.com/dbdahl/fangs
+	shallow = true
+	subdir = fangs
+	registered = true
+[submodule "caviarpd"]
+	path = caviarpd
+	url = https://github.com/dbdahl/caviarpd
+	shallow = true
+	subdir = caviarpd
+	registered = true
