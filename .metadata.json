@@ -3,8 +3,7 @@
     "package": "cargo"
   },
   {
-    "package": "salso",
-    "oncran": false
+    "package": "salso"
   },
   {
     "package": "fangs"

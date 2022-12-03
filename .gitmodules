@@ -13,7 +13,6 @@
 	path = salso
 	url = https://github.com/dbdahl/salso
 	shallow = true
-	branch = runiverse
 	subdir = salso
 	registered = true
 [submodule "fangs"]
