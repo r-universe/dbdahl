@@ -20,6 +20,7 @@
 	path = fangs
 	url = https://github.com/dbdahl/fangs
 	shallow = true
+	branch = runiverse
 	subdir = fangs
 	registered = true
 [submodule "caviarpd"]
