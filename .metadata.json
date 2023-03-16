@@ -1,18 +1,14 @@
 [
   {
-    "package": "cargo",
-    "oncran": true
+    "package": "cargo"
   },
   {
-    "package": "salso",
-    "oncran": true
+    "package": "salso"
   },
   {
-    "package": "fangs",
-    "oncran": true
+    "package": "fangs"
   },
   {
-    "package": "caviarpd",
-    "oncran": false
+    "package": "caviarpd"
   }
 ]
