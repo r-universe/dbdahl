@@ -9,24 +9,3 @@
 	shallow = true
 	subdir = cargo
 	registered = true
-[submodule "salso"]
-	path = salso
-	url = https://github.com/dbdahl/salso
-	shallow = true
-	branch = runiverse
-	subdir = salso
-	registered = true
-[submodule "fangs"]
-	path = fangs
-	url = https://github.com/dbdahl/fangs
-	shallow = true
-	branch = runiverse
-	subdir = fangs
-	registered = true
-[submodule "caviarpd"]
-	path = caviarpd
-	url = https://github.com/dbdahl/caviarpd
-	shallow = true
-	branch = runiverse
-	subdir = caviarpd
-	registered = true
