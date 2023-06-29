@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dbdahl/universe
-	shallow = true
 	branch = HEAD
 [submodule "cargo"]
 	path = cargo
 	url = https://github.com/dbdahl/cargo-framework
-	shallow = true
 	subdir = cargo
-	registered = true
