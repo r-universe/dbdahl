@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dbdahl/universe
+	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = HEAD
 [submodule "cargo"]
 	path = cargo
