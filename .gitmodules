@@ -1,29 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = HEAD
-[submodule "cargo"]
-	path = cargo
-	url = https://github.com/dbdahl/cargo-framework
-	subdir = cargo
-[submodule "caviarpd"]
-	path = caviarpd
-	url = https://github.com/dbdahl/caviarpd-package
-	subdir = caviarpd
-[submodule "commonsMath"]
-	path = commonsMath
-	url = https://github.com/cran/commonsMath
-[submodule "fangs"]
-	path = fangs
-	url = https://github.com/dbdahl/fangs-package
-	subdir = fangs
-[submodule "qslice"]
-	path = qslice
-	url = https://github.com/cran/qslice
-[submodule "salso"]
-	path = salso
-	url = https://github.com/dbdahl/salso
-	subdir = salso
-[submodule "sams"]
-	path = sams
-	url = https://github.com/cran/sams
+[submodule "splinclust"]
+	path = splinclust
+	url = https://github.com/dbdahl/dbdahl.r-universe.dev
+	branch = pkg/splinclust
