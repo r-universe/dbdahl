@@ -18,10 +18,6 @@
 	path = gourd
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = pkg/gourd
-[submodule "lorenzpartition"]
-	path = lorenzpartition
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/lorenzpartition
 [submodule "pumpkin"]
 	path = pumpkin
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
