@@ -18,7 +18,3 @@
 	path = salso
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = pkg/salso
-[submodule "slicesampler"]
-	path = slicesampler
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/slicesampler
