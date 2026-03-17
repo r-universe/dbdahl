@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = HEAD
-[submodule "bantha"]
-	path = bantha
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/bantha
 [submodule "caviarpd"]
 	path = caviarpd
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
@@ -18,10 +14,6 @@
 	path = gourd
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = pkg/gourd
-[submodule "pumpkin"]
-	path = pumpkin
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/pumpkin
 [submodule "salso"]
 	path = salso
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
@@ -30,11 +22,3 @@
 	path = slicesampler
 	url = https://github.com/dbdahl/dbdahl.r-universe.dev
 	branch = pkg/slicesampler
-[submodule "splinclust"]
-	path = splinclust
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/splinclust
-[submodule "treeSB"]
-	path = treeSB
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/treeSB
