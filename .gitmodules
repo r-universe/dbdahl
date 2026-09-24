@@ -4,17 +4,17 @@
 	branch = HEAD
 [submodule "caviarpd"]
 	path = caviarpd
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/caviarpd
+	url = https://github.com/dbdahl/caviarpd-package
+	subdir = caviarpd
 [submodule "fangs"]
 	path = fangs
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/fangs
+	url = https://github.com/dbdahl/fangs-package
+	subdir = fangs
 [submodule "gourd"]
 	path = gourd
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/gourd
+	url = https://github.com/dbdahl/gourd-package
+	subdir = gourd
 [submodule "salso"]
 	path = salso
-	url = https://github.com/dbdahl/dbdahl.r-universe.dev
-	branch = pkg/salso
+	url = https://github.com/dbdahl/salso
+	subdir = salso
